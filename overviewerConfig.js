@@ -43,7 +43,7 @@ var overviewerConfig = {
         {
             "name": "Overviewer Render (lighting)",
             "zoomLevels": 8,
-            "defaultZoom": 3,
+            "defaultZoom": 4,
             "maxZoom": 8,
             "path": "world-lighting",
             "base": "",
